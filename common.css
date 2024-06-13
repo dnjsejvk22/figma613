@@ -1,0 +1,45 @@
+/* 많이 사용하는 텍스트 컬러 및 폰트는 바디태그안에! */
+body{
+    color: #333;
+
+/* text */
+font-family: "Noto Sans KR";
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.0625rem;
+}
+.title{
+    color: #333;
+    text-align: center;
+
+    /* title */
+    font-family: "Noto Sans KR";
+    font-size: 2.25rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.link{
+    color: #333;
+
+    /* link */
+    font-family: "Noto Sans KR";
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.0625rem;
+}
+
+/* 배경색 */
+.activeBGColor{
+    background-color: #02AE74;
+}
+.pointBGColor{
+    background-color: #FF3D43;
+}
+.baseBGColor{
+    background-color: #333;
+}
